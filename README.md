@@ -10,8 +10,8 @@ Langkah Penyelesaian Simple Additive Weighting (SAW) adalah sebagai berikut :
 
 **Cara Instalasi**
 Download terlebih dahulu dengan
-`https://github.com/rickyginting/spksaw.git`
-Import database di folder db/db_saw.sql
+`(https://github.com/GiraldoSN/SPK_Penjualan-HandPhone_-Simple-Additive-Weighting.git)`
+Import database di folder db/spk_db.sql
 
 ![Screenshot (35)](https://user-images.githubusercontent.com/46182403/120494446-0775ff00-c3e6-11eb-9ecd-7bc4a15e7761.png)
 ![Screenshot (29)](https://user-images.githubusercontent.com/46182403/120494657-31c7bc80-c3e6-11eb-842c-87275d476b5f.png)
@@ -21,11 +21,11 @@ Import database di folder db/db_saw.sql
 ![Screenshot (33)](https://user-images.githubusercontent.com/46182403/120494641-2ffdf900-c3e6-11eb-8a4b-3fd0c2ee5797.png)
 ![Screenshot (34)](https://user-images.githubusercontent.com/46182403/120494649-30968f80-c3e6-11eb-93b0-079aa51bc6f1.png)
 
-Jangan lupa follow Instagram saya di [@rickyginting_](https://instagram.com/rickyginting_)
+Jangan lupa follow Instagram saya di [@giraldo.nainggolan_](https://instagram.com/giraldo.nainggolan_)
 
 Saya sangat senang jika kamu memberikan dukungan dana melalui
 
-**Bank Mandiri - 1070015342878**
+**Bank BRI - 092101081434593**
 
 
 

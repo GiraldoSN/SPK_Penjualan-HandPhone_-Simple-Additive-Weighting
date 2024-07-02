@@ -21,7 +21,7 @@ Import database di folder db/spk_db.sql
 ![Screenshot (33)](https://user-images.githubusercontent.com/46182403/120494641-2ffdf900-c3e6-11eb-8a4b-3fd0c2ee5797.png)
 ![Screenshot (34)](https://user-images.githubusercontent.com/46182403/120494649-30968f80-c3e6-11eb-93b0-079aa51bc6f1.png)
 
-Jangan lupa follow Instagram saya di [@giraldo.nainggolan_](https://instagram.com/giraldo.nainggolan_)
+Jangan lupa follow Instagram saya di [@giraldo.nainggolan_](https://www.instagram.com/giraldo.nainggolan/)
 
 Saya sangat senang jika kamu memberikan dukungan dana melalui
 
